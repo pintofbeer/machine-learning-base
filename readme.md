@@ -3,8 +3,10 @@
 This is a simple Visual Studio Code development container.
 
 Prerequisites:
+* Docker Desktop
 * Visual Studio Code
 * *Plugin:* Remote Development
+* *Possibly Ubuntu via WSL*
 
 Includes:
 * Python3, pip
