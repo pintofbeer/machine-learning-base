@@ -6,7 +6,7 @@ Prerequisites:
 * Docker Desktop
 * Visual Studio Code
 * *Plugin:* Remote Development
-* *Possibly Ubuntu via WSL*
+* *Possibly some linux distro on WSL - I start from there, you may not need to*
 
 Includes:
 * Python3, pip
