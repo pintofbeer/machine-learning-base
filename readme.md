@@ -5,7 +5,7 @@ This is a simple Visual Studio Code development container.
 Prerequisites:
 * Docker Desktop
 * Visual Studio Code
-* *Plugin:* Remote Development
+* *VSCode Plugin:* Remote Development
 * *Possibly some linux distro on WSL - I start from there, you may not need to*
 
 Includes:
